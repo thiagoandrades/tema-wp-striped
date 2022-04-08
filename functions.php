@@ -16,6 +16,7 @@
 	add_action('wp_enqueue_scripts', 'striped_wp_styles');
 
 	add_theme_support('title-tag');
+	add_theme_support('post_thumbnail');
 
 
 
